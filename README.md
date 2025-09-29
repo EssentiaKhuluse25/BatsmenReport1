@@ -4,7 +4,7 @@
 Java application that generates a comprehensive batsmen report showing runs scored by three South African cricket legends across different stadiums.
 
 ## Student Information
-- **Name**: [Your Name]
+- **Name**: Malwande Khuluse
 - **Student ID**: ST10447535
 - **Course**: PROG6112
 
